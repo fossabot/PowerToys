@@ -57,6 +57,7 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
+    <Compile Include="Converters\AppStateToCursor.cs" />
     <Compile Include="ViewModels\MainViewModel.cs" />
     <Compile Include="Views\SampleToolbar.xaml.cs">
       <DependentUpon>SampleToolbar.xaml</DependentUpon>

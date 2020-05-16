@@ -22,11 +22,24 @@ namespace AnimatedGifRecorder.ViewModels
             Stopping
         }
 
-        public AppState State { get; private set; }
+        public AppState State
+        {
+            get => state;
+            set {
+                if (state != value)
+                {
+                    state = value;
+                    OnPropertyChanged("State");
+                }
+            }
+        }
+        
+        private AppState state;
 
         public MainViewModel()
         {
             State = AppState.None;
+            State = AppState.SelectCaptureRegion;
         }
 
         public ICommand RecordPauseButtonCommand 
