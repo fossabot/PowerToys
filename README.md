@@ -9,6 +9,7 @@ Microsoft PowerToys is a set of utilities for power users to tune and streamline
 ## Build status
 
 [![Build Status](https://dev.azure.com/ms/PowerToys/_apis/build/status/microsoft.PowerToys?branchName=master)](https://dev.azure.com/ms/PowerToys/_build?definitionId=219)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FJayKayDodger%2FPowerToys.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FJayKayDodger%2FPowerToys?ref=badge_shield)
 
 ## Current PowerToy Utilities
 
@@ -158,6 +159,9 @@ PowerToys is still a very fluidic project and the team is actively working out o
 ### License Info
 
  Most contributions require you to agree to a [Contributor License Agreement (CLA)][oss-CLA] declaring that you have the right to, and actually do, grant us the rights to use your contribution.
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FJayKayDodger%2FPowerToys.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FJayKayDodger%2FPowerToys?ref=badge_large)
 
 ## Code of Conduct
 
